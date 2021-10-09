@@ -66,5 +66,5 @@ Win11带来了PowerAutoMate桌面版(PAM)和苹果捷径/小爱捷径等是一�
 
 什么是 Power Automatehttps://zhuanlan.zhihu.com/p/405540255
 
-感谢知乎[Bailando](https://www.zhihu.com/people/yu-chang-xin-66)的免费 Mathpix Api 调用文章 争对原脚本增加了自动复制到剪贴板
+感谢知乎[Bailando](https://www.zhihu.com/people/yu-chang-xin-66)的免费 Mathpix Api 调用文章 对原脚本增加了自动复制到剪贴板
 
